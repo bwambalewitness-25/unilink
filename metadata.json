@@ -1,0 +1,7 @@
+{
+  "name": "unilink chat application",
+  "description": "A high-fidelity proximity-based chat application where nicknames reset daily and messages disappear when you leave the zone. Uses geolocation to simulate local mesh networking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
